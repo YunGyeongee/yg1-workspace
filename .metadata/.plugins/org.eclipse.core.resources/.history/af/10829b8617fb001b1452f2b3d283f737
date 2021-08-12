@@ -1,0 +1,12 @@
+package com.yg.run;
+import com.yg.first.*;
+
+public class RunA { // 실행만을 담당하는 실행용 클래스 => 주제별로 패키지를 관리하기 때문
+	
+	public static void main(String[] args) {
+		
+		
+		
+	}
+
+}

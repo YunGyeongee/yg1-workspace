@@ -1,0 +1,9 @@
+package com.yg.run;
+
+public class RunA {
+	
+	public static void main(String[] args) {
+		
+	}
+
+}

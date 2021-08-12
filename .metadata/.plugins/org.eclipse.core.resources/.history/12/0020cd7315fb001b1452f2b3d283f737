@@ -1,0 +1,6 @@
+package com.yg.first;
+
+public class A_MethodPrinter { // 클래스의 첫문자를 대문자로 하도록 경고해줌
+
+
+}
