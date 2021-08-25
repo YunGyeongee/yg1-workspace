@@ -78,6 +78,9 @@ public class B_KeyboardInput {
 		System.out.println(address);
 		System.out.println(height);
 		
+		// 출력 : xxx님은 xx살이며, 사는 곳은 xxxx이고, 키는 xxxcm 입니다.
+		System.out.printf("%s님은 %d살이며, 사는 곳은 %s이고, 키는 %.1fcm 입니다.", name, age, address, height);
+		
 	}
 	
 	public void inputScanner3() {
