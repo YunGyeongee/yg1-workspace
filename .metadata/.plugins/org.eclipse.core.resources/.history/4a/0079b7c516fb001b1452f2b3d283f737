@@ -1,9 +1,0 @@
-package com.yg.run;
-
-public class Run {
-	
-	public static main(Stirng[]) {
-		
-	}
-
-}

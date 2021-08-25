@@ -1,6 +1,0 @@
-package com.yg.first; // 패키지 선언부 => 패키지가 속해있는 경로를 반드시 선언해줘야함.
-
-public class A_MethodPrinter { // 클래스의 첫문자를 대문자로 하도록 경고해줌
-
-
-}
